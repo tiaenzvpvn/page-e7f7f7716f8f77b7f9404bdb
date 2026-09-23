@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "358373a9cda6954a5fc3bbb7",
+  "owner": "tiaenzvpvn",
+  "repo": "page-e7f7f7716f8f77b7f9404bdb",
+  "title": "GZ高铁复兴号",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e7f7f7716f8f77b7f9404bdb",
+      "a": "GZ高铁复兴号",
+      "b": "机场官网线路发布页",
+      "entity": "GZ高铁复兴号",
+      "brand": "GZ高铁复兴号",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "72deba4718525fbe29cd4afc77241dc7c4e2063ea38c8d44ad5af09a72a381d0",
+      "content": {
+        "primary_entity": "GZ高铁复兴号",
+        "keyword1": "GZ高铁复兴号",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "先确认手机、电脑或路由器型号，再依照客户端文档导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据日常设备数量与流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，顺畅连接",
+          "AI_DESCRIPTION": "，GZ高铁复兴号面向跨境访问场景提供多档订阅方案，基础版适合单人或轻量设备，旗舰版满足多设备与流媒体需求，团队版支持二十台设备同时在线。设置时先确认设备型号与系统版本，再按客户端文档导入订阅链接，最后根据月流量与在线设备数选择计费周期。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备同时在线，适合单人手机或平板日常使用；旗舰版每月300GB流量，支持5台设备，适合多设备家庭。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持5台设备同时在线，团队版支持20台。单账号多设备连接时，总流量按套餐上限计算。",
+          "AI_FAQ_ANSWER_3": "年付更划算，基础版年付150元，旗舰版年付350元，团队版年付850元。月付灵活，适合短期或试用需求。",
+          "AI_FAQ_ANSWER_4": "在客户端中使用订阅导入功能，粘贴购买后获得的订阅链接，等待节点列表刷新后选择延迟较低的线路即可。不同客户端导入步骤略有差异，请参照对应文档。",
+          "AI_FAQ_ANSWER_5": "在路由器上安装支持订阅导入的客户端插件，将订阅链接配置到路由器，同一网络下的设备即可共享连接。设备数量仍受套餐上限约束。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时连接几台设备？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_4": "在手机或电脑上如何导入订阅？",
+          "AI_FAQ_QUESTION_5": "路由器上可以使用吗？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量上限与订阅周期三个角度选择合适方案。",
+          "AI_FEATURES_TITLE": "订阅配置要点",
+          "AI_FEATURE_TEXT_1": "基础版100GB适合单人，旗舰版300GB满足多设备，团队版1000GB支持二十台设备。",
+          "AI_FEATURE_TEXT_2": "按同时在线设备数选择，三台、五台或二十台，不同套餐对应不同上限。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付150元，旗舰版350元，团队版850元。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_GUIDE_INTRO": "三步完成订阅配置与客户端连接。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "GZ高铁复兴号提供基础版、旗舰版与团队版订阅方案，覆盖单人轻量使用到多设备团队场景。根据设备数量与月流量需求选择套餐，按客户端文档导入订阅即可连接。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备区分",
+          "AI_HIGHLIGHT_2": "年付方案价格更省",
+          "AI_HIGHLIGHT_3": "按客户端文档导入订阅",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月，年付分别¥150、¥350、¥850。按设备数与流量选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量，在基础版、旗舰版、团队版中选择合适订阅。",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器的系统版本，查看对应客户端文档中的适配要求。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，刷新节点后选择可用线路完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "GZ高铁复兴号订阅方案"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dtjindian.com",
+    "host": "dtjindian.com"
+  },
+  "file_hashes": {
+    "index.html": "1646093366404ffc5cd0097bcd3aeeac429d02acd941a5cb9183f7d88ecf2a97",
+    "sitemap.xml": "62e074c6f27fb97ff90902cc48a82a4f138f628e2e3f9148c7fba0fe30330431",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c5c9ad2fe421783496b8f4fe2303ccf9650868ab0485fb84a103ee8626143b91",
+    "robots.txt": "54f75cee580b6b74b9cdd594749f03dc0937bb882b2d225fd60ecd75f6ea2391",
+    "e48291907d81d6e5f47a160c12290a66.txt": "29051fbd4740e1273d05d788286a97b580c5722c0094603e0020e38999805a10"
+  },
+  "revision": "92352d31dc8fd1316d6cd9d28f644ee500b89da4906d08adcf970eb0cd54ac18"
+}
